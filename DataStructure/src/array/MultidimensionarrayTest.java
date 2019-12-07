@@ -3,6 +3,7 @@ package array;
 public class MultidimensionarrayTest {
 
 	public static void main(String[] args) {
+		
 		int[][][] multi = {
 		                   {
 		                    {1,2,3},
